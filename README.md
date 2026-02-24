@@ -16,7 +16,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kishanprajapath&repo=HostelHub&theme=github_dark&border_color=30363d" />
 </a>
 &nbsp;
-<a href="https://github.com/Kishanprajapath/Price-Nexus">
+<a href="https://github.com/Kishanprajapath/Project-price-nexus">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kishanprajapath&repo=Price-Nexus&theme=github_dark&border_color=30363d" />
 </a>
 
