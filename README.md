@@ -10,13 +10,44 @@
 
 ---
 
+## 🧠 About Me
+
+```ts
+const kishan = {
+  location          : "Idukki, Kerala, India 🌴",
+  education         : "B.Tech CSE @ IIIT Kottayam (Final Year)",
+  focus             : ["Machine Learning", "Full-Stack Dev", "Data Engineering"],
+  currentlyLearning : ["Azure Cloud", "Databricks", "System Design"],
+  askMeAbout        : ["MERN Stack", "Deep Learning", "REST APIs", "Docker"],
+  funFact           : "I debug better after a walk in the Western Ghats 🏔️"
+};
+```
+
+---
+
+## 🛠️ Tech Stack
+
+**Machine Learning & Data**
+
+[![ML Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv)](https://skillicons.dev)
+
+**Full-Stack Development**
+
+[![Web Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css,js)](https://skillicons.dev)
+
+**DevOps & Tools**
+
+[![DevOps Skills](https://skillicons.dev/icons?i=docker,jenkins,git,linux,vscode,postman)](https://skillicons.dev)
+
+---
+
 ## 🚀 Featured Projects
 
 <a href="https://github.com/Kishanprajapath/HostelHub">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kishanprajapath&repo=HostelHub&theme=github_dark&border_color=30363d" />
 </a>
 &nbsp;
-<a href="https://github.com/Kishanprajapath/Project-price-nexus">
+<a href="https://github.com/Kishanprajapath/Price-Nexus">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kishanprajapath&repo=Price-Nexus&theme=github_dark&border_color=30363d" />
 </a>
 
@@ -39,12 +70,29 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Kishanprajapath/Kishanprajapath/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Kishanprajapath/Kishanprajapath/output/github-snake.svg">
+  <img alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/Kishanprajapath/Kishanprajapath/output/github-snake.svg">
+</picture>
+
+---
+
 ## 🤝 Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishan-prajapath-90756625b/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prajapathkishan2004@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kishanprajapath)
 
 </div>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=80&section=footer"/>
+</div>
