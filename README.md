@@ -21,3 +21,11 @@ const kishan = {
   askMeAbout        : ["MERN Stack", "Deep Learning", "REST APIs", "Docker"],
   funFact           : "It works on my machine."
 };
+
+🚀 Featured Projects
+<a href="https://github.com/Kishanprajapath/HostelHub"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kishanprajapath&repo=HostelHub&theme=github_dark&border_color=30363d" /> </a> &nbsp; <a href="https://github.com/Kishanprajapath/Price-Nexus"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kishanprajapath&repo=Price-Nexus&theme=github_dark&border_color=30363d" /> </a>
+📊 GitHub Stats
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kishanprajapath&show_icons=true&theme=github_dark&border_color=30363d&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishanprajapath&layout=compact&theme=github_dark&border_color=30363d"/> </div> <div align="center">
+
+🐍 Contribution Snake
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kishanprajapath/Kishanprajapath/output/github-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kishanprajapath/Kishanprajapath/output/github-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kishanprajapath/Kishanprajapath/output/github-snake.svg"> </picture>
