@@ -10,22 +10,41 @@
 
 ---
 
-## 🧠 About Me
+## 🚀 Featured Projects
 
-```ts
-const kishan = {
-  location          : "Hyderabad, Telangana, India ",
-  education         : "B.Tech CSE @ IIIT Kottayam (Final Year)",
-  focus             : ["Machine Learning", "Full-Stack Dev", "Data Engineering"],
-  currentlyLearning : ["System Design"],
-  askMeAbout        : ["MERN Stack", "Deep Learning", "REST APIs", "Docker"],
-  funFact           : "It works on my machine."
-};
+<a href="https://github.com/Kishanprajapath/HostelHub">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kishanprajapath&repo=HostelHub&theme=github_dark&border_color=30363d" />
+</a>
+&nbsp;
+<a href="https://github.com/Kishanprajapath/Price-Nexus">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kishanprajapath&repo=Price-Nexus&theme=github_dark&border_color=30363d" />
+</a>
 
-🚀 Featured Projects
-<a href="https://github.com/Kishanprajapath/HostelHub"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kishanprajapath&repo=HostelHub&theme=github_dark&border_color=30363d" /> </a> &nbsp; <a href="https://github.com/Kishanprajapath/Price-Nexus"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kishanprajapath&repo=Price-Nexus&theme=github_dark&border_color=30363d" /> </a>
-📊 GitHub Stats
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kishanprajapath&show_icons=true&theme=github_dark&border_color=30363d&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishanprajapath&layout=compact&theme=github_dark&border_color=30363d"/> </div> <div align="center">
+---
 
-🐍 Contribution Snake
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kishanprajapath/Kishanprajapath/output/github-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kishanprajapath/Kishanprajapath/output/github-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kishanprajapath/Kishanprajapath/output/github-snake.svg"> </picture>
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kishanprajapath&show_icons=true&theme=github_dark&border_color=30363d&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishanprajapath&layout=compact&theme=github_dark&border_color=30363d"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kishanprajapath&theme=github-dark-blue&border=30363d&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishan-prajapath-90756625b/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prajapathkishan2004@gmail.com)
+
+</div>
+
