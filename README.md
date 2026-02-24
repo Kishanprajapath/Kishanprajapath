@@ -12,8 +12,6 @@
 
 ## 🧠 About Me
 
-## 🧠 About Me
-
 - 📍 Based in **Hyderabad, Telangana, India**
 - 🎓 **Final-year B.Tech CSE** student at **IIIT Kottayam**
 - 🧠 Interests: **Machine Learning**, **Full-Stack Development**
