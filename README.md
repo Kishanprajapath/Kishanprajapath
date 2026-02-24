@@ -46,7 +46,7 @@
 </a>
 &nbsp;
 <a href="https://github.com/Kishanprajapath/Price-Nexus">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kishanprajapath&repo=Price-Nexus&theme=github_dark&border_color=30363d" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kishanprajapath&repo=Project-price-nexus&theme=github_dark&border_color=30363d" />
 </a>
 
 ---
