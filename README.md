@@ -12,16 +12,16 @@
 
 ## 🧠 About Me
 
-```ts
-const kishan = {
-  location          : "Idukki, Kerala, India 🌴",
-  education         : "B.Tech CSE @ IIIT Kottayam (Final Year)",
-  focus             : ["Machine Learning", "Full-Stack Dev", "Data Engineering"],
-  currentlyLearning : ["Azure Cloud", "Databricks", "System Design"],
-  askMeAbout        : ["MERN Stack", "Deep Learning", "REST APIs", "Docker"],
-  funFact           : "I debug better after a walk in the Western Ghats 🏔️"
-};
-```
+## 🧠 About Me
+
+- 📍 Based in **Hyderabad, Telangana, India**
+- 🎓 **Final-year B.Tech CSE** student at **IIIT Kottayam**
+- 🧠 Interests: **Machine Learning**, **Full-Stack Development**
+- 🔭 Currently learning: **System Design**
+- 💻 Comfortable with: **MERN stack**, **Deep Learning**, **REST APIs**, **Docker**
+- 🌱 I enjoy turning ideas into working products like **HostelHub** and **Price-Nexus**
+- 💡 Fun fact: It works on **my machine**
+
 
 ---
 
